@@ -28,7 +28,7 @@ interpolate(
 interpolate(
   'Hello, <% place %>',
   {place: 'world'},
-  {left: '<%, right: '%>'}
+  {left: '<%', right: '%>'}
 ) // -> 'Hello, world'
 ```
 

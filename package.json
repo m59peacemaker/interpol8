@@ -1,6 +1,6 @@
 {
   "name": "interpol8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic templating by interpolating values into placeholders.",
   "keywords": [
     "template",
