@@ -1,0 +1,37 @@
+{
+  "name": "interpol8",
+  "version": "1.0.0",
+  "description": "Basic templating by interpolating values into placeholders.",
+  "keywords": [
+    "template",
+    "templating",
+    "interpolate",
+    "interpolation",
+    "basic",
+    "simple",
+    "placeholders",
+    "values",
+    "replace"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/js-interpol8"
+  },
+  "author": {
+    "name": "Johnny Hauser",
+    "email": "johnnyhauser@gmail.com"
+  },
+  "license": "VOL",
+  "dependencies": {
+    "interpolate-regex": "^1.0.0",
+    "object-at": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2",
+    "try_catch": "^1.0.1"
+  }
+}
