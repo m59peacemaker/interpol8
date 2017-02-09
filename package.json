@@ -1,6 +1,6 @@
 {
   "name": "interpol8",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic templating by interpolating values into placeholders.",
   "keywords": [
     "template",
@@ -25,7 +25,7 @@
     "name": "Johnny Hauser",
     "email": "johnnyhauser@gmail.com"
   },
-  "license": "VOL",
+  "license": "CC0-1.0",
   "dependencies": {
     "interpolate-regex": "^1.0.0",
     "object-at": "^1.0.1"
